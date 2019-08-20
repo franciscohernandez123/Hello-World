@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\FIT\\Documents\\GitHub\\Hello-World\\Hello-World.csproj": {}
+    "/Users/fernando_maccio/Hello-World/Hello-World.csproj": {}
   },
   "projects": {
-    "C:\\Users\\FIT\\Documents\\GitHub\\Hello-World\\Hello-World.csproj": {
+    "/Users/fernando_maccio/Hello-World/Hello-World.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\FIT\\Documents\\GitHub\\Hello-World\\Hello-World.csproj",
+        "projectUniqueName": "/Users/fernando_maccio/Hello-World/Hello-World.csproj",
         "projectName": "Hello-World",
-        "projectPath": "C:\\Users\\FIT\\Documents\\GitHub\\Hello-World\\Hello-World.csproj",
-        "packagesPath": "C:\\Users\\FIT\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\FIT\\Documents\\GitHub\\Hello-World\\obj\\",
+        "projectPath": "/Users/fernando_maccio/Hello-World/Hello-World.csproj",
+        "packagesPath": "/Users/fernando_maccio/.nuget/packages/",
+        "outputPath": "/Users/fernando_maccio/Hello-World/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\FIT\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/Users/fernando_maccio/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.2"
